@@ -4,4 +4,4 @@ Reaper Express is a short narrative game where the player is a resident of the a
 
 ## Play now
 
-Play Reaper Express [here](https://allystarc.github.io/White-Melody/final_build/WhiteMelody_Final_Build.html).
+Play Reaper Express [here](https://allystarc.github.io/Reaper-Express/Reaper_Express.html).
